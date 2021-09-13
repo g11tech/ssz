@@ -3,3 +3,7 @@ yarn-error.log
 .nyc_output/
 .idea/
 .vscode
+
+coverage
+lib
+packages/*/package-lock.json
