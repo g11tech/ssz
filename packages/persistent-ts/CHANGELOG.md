@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.20.0](https://github.com/cronokirby/persistent-ts/compare/@chainsafe/persistent-ts@0.19.34...@chainsafe/persistent-ts@0.20.0) (2021-10-01)
+
+**Note:** Version bump only for package @chainsafe/persistent-ts
+
+
+
+
+
 ## [0.19.34](https://github.com/cronokirby/persistent-ts/compare/@chainsafe/persistent-ts@0.19.0...@chainsafe/persistent-ts@0.19.34) (2021-10-01)
 
 **Note:** Version bump only for package @chainsafe/persistent-ts

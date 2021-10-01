@@ -1,3 +1,16 @@
+# Change Log
+
+All notable changes to this project will be documented in this file.
+See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
+
+# [0.3.0](https://github.com/chainsafe/as-sha256/compare/@chainsafe/as-sha256@0.2.4...@chainsafe/as-sha256@0.3.0) (2021-10-01)
+
+**Note:** Version bump only for package @chainsafe/as-sha256
+
+
+
+
+
 ## 0.2.4 (2021-08-18)
 
 - normal digest mem opt for < 512 bytes ([30f7ec](https://github.com/ChainSafe/as-sha256/commit/30f7ec))

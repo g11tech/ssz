@@ -1,6 +1,6 @@
 {
   "name": "@chainsafe/persistent-ts",
-  "version": "0.19.34",
+  "version": "0.20.0",
   "description": "Persistent data structures for TypeScript.",
   "main": "lib/index.js",
   "files": [
